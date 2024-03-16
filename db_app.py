@@ -1,5 +1,3 @@
-#CMPT354 Assignment 7 - due Monday, December 4 2023
-#Submitted By: Asmita Srivastava (Student No. 301436340)
 import pypyodbc as odbc
 import datetime
 import uuid
